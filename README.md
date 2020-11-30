@@ -7,6 +7,7 @@
 - Hibernate Validator
 - Redis
 - JWT
+- MySQL 5.7(sql script attached)
 ### Front End
 - Vue
 - Axios
